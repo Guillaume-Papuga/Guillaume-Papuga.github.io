@@ -2,10 +2,15 @@
 title: "Welcome"
 ---
 
-This is a Quarto website.
+# Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello! I am **Guillaume Papuga**, lecturer at the University of Montpellier.
 
-```{r}
-1 + 1
-```
+**Insert your photo here**
+
+-   [Download CV (PDF)](path/to/cv.pdf)
+
+**Buttons for GitHub, Google Scholar, ORCID**\
+- [GitHub](https://github.com/Guillaume-Papuga)\
+- [Google Scholar](https://scholar.google.com/citations?user=...)\
+- [ORCID](https://orcid.org/0000-0000-0000-0000)
