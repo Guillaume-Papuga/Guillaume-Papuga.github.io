@@ -1,24 +1,40 @@
 ---
-title: "Welcome"
+# Pas de title ici
 ---
 
-Hello! I am **Guillaume Papuga**, lecturer at the University of Montpellier.
+::: {.grid}
+::: {.g-col-4}
+![](images/profil_1.JPG){width=200px style="border-radius:50%;"}
 
-**Insert your photo here**
+Plant ecology, evolution and conservation
 
--   [Download CV (PDF)](path/to/cv.pdf)
-
-**Buttons for GitHub, Google Scholar, ORCID**\
-- [GitHub](https://github.com/Guillaume-Papuga)\
-- [Google Scholar](https://scholar.google.com/citations?user=...)\
-- [ORCID](https://orcid.org/0000-0000-0000-0000)
-
-
+<div style="margin-top:15px;">
 [![](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)](https://github.com/Guillaume-Papuga)
 [![](https://img.icons8.com/?size=50&id=drPiDBy9kkJ3&format=png&color=000000)](https://scholar.google.com/citations?user=NFHREtgAAAAJ&hl=fr)
 [![](https://img.icons8.com/?size=50&id=ve6L0KkSotok&format=png&color=000000)](https://orcid.org/0000-0002-7803-2219)
 [![](https://img.icons8.com/?size=50&id=JwlJGiL15V81&format=png&color=000000)](https://www.researchgate.net/profile/Guillaume-Papuga)
 [![](https://img.icons8.com/?size=50&id=of3VL9FKzJuz&format=png&color=000000)](mailto:guillaume.papuga@univ-montpellier.fr)
 [![](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/guillaume-papuga-b3735b2a1/)
+</div>
+:::
 
+::: {.g-col-8}
+# Welcome
+
+Hello! I am **Guillaume Papuga**, lecturer in ecology at the [University of Montpellier](https://www.umontpellier.fr/) and member of the [AMAP laboratory](https://amap.cirad.fr/)  
+
+My research focuses on the **conservation of plants and habitats**, with a strong emphasis on Mediterranean ecosystems. I combine field ecology, biogeography and statistical modeling to better understand plant diversity, distribution limits, and responses to environmental change.  
+
+I am particularly interested in bridging the gap between **science and conservation practice**. This includes demographic monitoring of plant populations, ecological niche analyses, experimental translocations, or management planning.  
+
+I use **R for data analysis**, and I have solid expertise in field botany across Mediterranean, temperate and alpine ecosystems.  
+
+Since 2019, I have been teaching ecology, evolution, conservation biology and data analysis at the University of Montpellier. I supervise several PhD and MSc students, and I recently obtained my **Habilitation to Supervise Research (HDR, 2025)**.  
+
+If you are interested in my work, feel free to explore my projects and publications, or get in touch!
+
+[Download CV (PDF)](path/to/cv.pdf)
+[Download HDR - fr (PDF)](path/to/cv.pdf)
+:::
+:::
 
