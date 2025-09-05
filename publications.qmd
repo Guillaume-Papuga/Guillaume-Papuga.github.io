@@ -10,7 +10,7 @@ title: "Publications"
 
 ## Published
 
--   **A25.** Mouillac, C., Besnard, A., **Papuga, G.** (2025). *Are wild-harvested plants just ordinary? Traits and harvesting patterns in France.* Biological Conservation, *in press.*
+-   **A25.** [Mouillac, C.]{.underline}, Besnard, A., **Papuga, G.** (2025). *Are wild-harvested plants just ordinary? Traits and harvesting patterns in France.* Biological Conservation, *in press.*
 
 -   **A24.** Thompson, J.D., Fauché M., **Papuga G.** & Gauthier P. (2025). *Plant conservation in a changing Mediterranean world.* Plant People and Nature, *in press.*
 
@@ -18,7 +18,7 @@ title: "Publications"
 
 -   **A22.** Godefroid, S., Lacquaye, T., Ensslin, A., Dalrymple, S., Abeli, T., Branwood, H., Pardo, I.F., Zippel, E., Gouveia, L., Lobo, C.A., Fernandes, F., Lang, M., Daco, L., Séleck, M., Frankard, P., Fischer, L., Koutsovoulou, K., Finger, A., Valkó, O., Garfi, G., Španiček, B., Bürli, S., Dickenmann, R., Jones, J., Cwener, A., Guyonneau, J., **Papuga, G.**, De Vitis, M., Fenu, G., Van Rossum, F., Asset, B., Cogoni, D., Foster, G., Julien, M., Piqueray, J., Vít, P., Vydrzel, H., Bonnet, V., Carta, A., Descombes, P., Lazarević, M., Müller, N., Orsenigo, S., Ravera, S., Sild, M., Smyth, S., Wagner, T., Walisch, T., Ballian, D., Bertiller, R., Cambria, V.E., Colas, B., Dixon, L., Draper, D., Froidevaux, V., Gąsiorowska, B., Hardegen, M., Machon, N., Mesnage, C., Pagitz, K., Pánková, H., Pankhurst, T., Preston, J., Prunier, P., Salzmann, C., Mas, S.S., Sartori, K., Stanik, N., Storrer, Y., White, F., Wunderli, A., Socher, S. (2025). *Current state of plant conservation translocations across Europe: motivations, challenges and outcomes.* Biodiversity and Conservation, 34(3), 769-792.
 
--   **A21.** Perret, J., Laroche, F., Papuga, G., & Besnard, A. (2024). *Avoid non‐probability sampling to select population monitoring sites: Comment on McClure and Rolek (2023).* Methods in Ecology and Evolution, 15(8), 1296-1301.
+-   **A21.** Perret, J., Laroche, F., **Papuga, G.**, & Besnard, A. (2024). *Avoid non‐probability sampling to select population monitoring sites: Comment on McClure and Rolek (2023).* Methods in Ecology and Evolution, 15(8), 1296-1301.
 
 -   **A20.** Decaëns, T., Bartz, M.L.C., Feijoo, A.M., Goulpeau, A., Lapied, E., Marchan, D.F., Maggia, M.E., **Papuga, G.**, James, S.W. (2024). *Earthworms (Oligochaeta, Clitellata) of the Mitaraka range, French Guiana: commented checklist with description of one genus and eighteen species new to science.* *Zoosystema*, *in press*.
 
@@ -54,10 +54,10 @@ title: "Publications"
 
 -   **A4.** Thompson, J. D., Gauthier, P., **Papuga, G.**, Pons, V., Debussche, M., Farris, E. (2018). *The conservation significance of natural hybridisation in Mediterranean plants: from a case study on Cyclamen (Primulaceae) to a general perspective.* *Plant Biology*, 20, 128–138.
 
--   **A3.** Gauthier, Pons, V., Letourneau, A., Klesczewski, M., **Papuga, G.**, Thompson, J. D. (2017). Combining population monitoring with habitat vulnerability to assess conservation status in populations of rare and endangered plants. *Journal for Nature Conservation*, 37, 83-95.
+-   **A3.** Gauthier, Pons, V., Letourneau, A., Klesczewski, M., **Papuga, G.**, Thompson, J. D. (2017). *Combining population monitoring with habitat vulnerability to assess conservation status in populations of rare and endangered plants*. *Journal for Nature Conservation*, 37, 83-95.
 
--   **A2.** Pironon, S.\*, **Papuga, G.\***, Villellas, J., Angert, A. L., García, M. B., Thompson, J. D. (2017). Geographic variation in genetic and demographic performance: new insights from an old biogeographical paradigm. *Biological Reviews*, 92, 1877-1909. \[\*equal contribution\]
+-   **A2.** Pironon, S.\*, **Papuga, G.\***, Villellas, J., Angert, A. L., García, M. B., Thompson, J. D. (2017). *Geographic variation in genetic and demographic performance: new insights from an old biogeographical paradigm.* *Biological Reviews*, 92, 1877-1909. \[\*equal contribution\]
 
--   **A1.** **Papuga, G.**, Gauthier, P., [Ramos, J.]{.underline}, Pons, V., Pironon, S., Farris, E., Thompson, J. D. (2015). Range-wide variation in the ecological niche and floral polymorphism of the western Mediterranean geophyte *Narcissus dubius* Gouan. *International Journal of Plant Sciences*, 176, 724–738.
+-   **A1.** **Papuga, G.**, Gauthier, P., [Ramos, J.]{.underline}, Pons, V., Pironon, S., Farris, E., Thompson, J. D. (2015). *Range-wide variation in the ecological niche and floral polymorphism of the western Mediterranean geophyte Narcissus dubius Gouan.* *International Journal of Plant Sciences*, 176, 724–738.
 
 # Reports

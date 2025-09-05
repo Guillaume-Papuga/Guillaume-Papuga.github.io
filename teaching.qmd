@@ -2,8 +2,13 @@
 title: "Teaching"
 ---
 
-I am staff at the **University of Montpellier**, Faculty of Sciences, Department of Biology & Ecology.
+I am a lecturer at the [University of Montpellier](https://www.umontpellier.fr/){target="_blank"}, Faculty of Sciences, Department of Biology & Ecology.\
+I teach **ecology, botany, and data analysis**, from undergraduate to graduate levels, with a strong emphasis on fieldwork and quantitative skills.
 
-I teach **ecology, botany, and data analysis**.
+My teaching combines lectures, practicals, and project-based learning, with a strong focus on linking ecological theory to conservation practice. As a **botanist**, I regularly lead field courses in Mediterranean, temperate and alpine ecosystems, helping students develop naturalist skills and field-based ecological reasoning.
 
-Within the Master “Biodiversity and Environmental Management”, I co-lead the **RAINET track**.
+I am currently responsible for several courses in the Bachelor’s and Master’s curriculum, including two core modules in ecology.
+
+## Master program
+
+Together with [Anne Charpentier](https://www.cefe.cnrs.fr/fr/recherche/bc/dsse/869-c/251-anne-charpentier){target="_blank"}, I co-coordinate the [RAINET track](https://ingenieurs-ecologues.com/parcours-ge/parcours-rainet/) within the Master program *“[Biodiversity and Environmental Management](https://ingenieurs-ecologues.com/)”*.
