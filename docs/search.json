@@ -67,7 +67,28 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Join our research group!\nEmail: guillaume /dot/ papuga (at) univ-montpellier /dot/ fr\nInstitution: University of Montpellier, AMAP lab\nAcademic network buttons\n- ORCID\n- Google Scholar"
+    "text": "Join our research group!"
+  },
+  {
+    "objectID": "contact.html#teaching-location",
+    "href": "contact.html#teaching-location",
+    "title": "Contact",
+    "section": "Teaching Location",
+    "text": "Teaching Location\nUniversity of Montpellier - Faculty of Sciences – Department of Biology & Ecology\nPlace Eugène Bataillon Campus Triolet, bâtiment 35 – CC437 34090 Montpellier Cedex 5\n&lt;iframe src=“” width=“600” height=“450” style=“border:0;” allowfullscreen loading=“lazy”&gt;"
+  },
+  {
+    "objectID": "contact.html#research-location",
+    "href": "contact.html#research-location",
+    "title": "Contact",
+    "section": "Research Location",
+    "text": "Research Location\nAMAP Laboratory – Ecology & Plant Biology\nUniversity of Montpellier\n[Adresse complète]\n&lt;iframe src=“” width=“600” height=“450” style=“border:0;” allowfullscreen loading=“lazy”&gt;"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "Contact",
+    "text": "Contact\nFor any inquiries, feel free to email me at:\nguillaume.papuga@umontpellier.fr"
   },
   {
     "objectID": "publications.html",
