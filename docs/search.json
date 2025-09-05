@@ -1,10 +1,52 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "analyses.html",
+    "href": "analyses.html",
+    "title": "Analyses",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Analyses\nThis section shares code and analyses used in university or professional trainings.\n\nTeaching analyses\n\n\nMPC: Methods for Plant Conservation\n\n\nR_Aid_Kit\n\n\nShared resources"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Chloé Mouillac (PhD 2023–2026) – Impact of plant harvesting in France. Co-supervised with Aurélien Besnard. First paper published!\n\nLucie Bivaud (PhD 2023–2026) – Glacier retreat vegetation. Co-supervised with Fabien Anthelme, Anaïs Zimmer & Tristan Charles-Dominique.\n\nJeremie Solere (PhD 2023–2026) – CIFRE at Grand Port de Marseille. Co-supervised with Valérie Borrell.\n\nValentine Anstett (PhD 2024–2027) – Mediterranean temporary lagoons. Co-supervised with Rutger de Wit (Marbec).\n\nAmaya Richer (PhD 2025–2028) – Plant population monitoring. Co-supervised with Anne Charpentier, Jan Perret & Aurélien Besnard.\n\n\n\n\n\nJan Perret (PhD)"
+  },
+  {
+    "objectID": "people.html#current-phd-students",
+    "href": "people.html#current-phd-students",
+    "title": "People",
+    "section": "",
+    "text": "Chloé Mouillac (PhD 2023–2026) – Impact of plant harvesting in France. Co-supervised with Aurélien Besnard. First paper published!\n\nLucie Bivaud (PhD 2023–2026) – Glacier retreat vegetation. Co-supervised with Fabien Anthelme, Anaïs Zimmer & Tristan Charles-Dominique.\n\nJeremie Solere (PhD 2023–2026) – CIFRE at Grand Port de Marseille. Co-supervised with Valérie Borrell.\n\nValentine Anstett (PhD 2024–2027) – Mediterranean temporary lagoons. Co-supervised with Rutger de Wit (Marbec).\n\nAmaya Richer (PhD 2025–2028) – Plant population monitoring. Co-supervised with Anne Charpentier, Jan Perret & Aurélien Besnard."
+  },
+  {
+    "objectID": "people.html#past-students",
+    "href": "people.html#past-students",
+    "title": "People",
+    "section": "",
+    "text": "Jan Perret (PhD)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I work in ecology, evolution, and plant conservation, mainly in the Mediterranean area.\nI am affiliated with AMAP, a plant ecology and botany lab.\nI collaborate extensively at the research/conservation interface, including CBN, PN, CEN."
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nOngoing\n\nIMCISE (funded by OFB)\nLTM Flora\n\n\n\nPast\n\nJan suivi flore"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\nI am staff at the University of Montpellier, Faculty of Sciences, Department of Biology & Ecology.\nI teach ecology, botany, and data analysis.\nWithin the Master “Biodiversity and Environmental Management”, I co-lead the RAINET track."
   },
   {
     "objectID": "index.html",
@@ -12,5 +54,40 @@
     "title": "Welcome",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nJoin our research group!\nEmail: guillaume /dot/ papuga (at) univ-montpellier /dot/ fr\nInstitution: University of Montpellier, AMAP lab\nAcademic network buttons\n- ORCID\n- Google Scholar"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "(Add preprints here)\n\n\n\n\n\nA25. Mouillac, C., Besnard, A., Papuga, G. (2025). Are wild-harvested plants just ordinary? Traits and harvesting patterns in France. Biological Conservation, in press.\nA24. Thompson, J.D., Fauché M., Papuga G. & Gauthier P. (2025). Plant conservation in a changing Mediterranean world. Plant People and Nature, in press.\nA23. Lenormand, M., Féret, J. B., Papuga, G., Alleaume, S., & Luque, S. (2025). Coupling in situ and remote sensing data to assess α‐and β‐diversity over biogeographic gradients. Ecography, e07479.\nA22. Godefroid, S., Lacquaye, T., Ensslin, A., Dalrymple, S., Abeli, T., Branwood, H., Pardo, I.F., Zippel, E., Gouveia, L., Lobo, C.A., Fernandes, F., Lang, M., Daco, L., Séleck, M., Frankard, P., Fischer, L., Koutsovoulou, K., Finger, A., Valkó, O., Garfi, G., Španiček, B., Bürli, S., Dickenmann, R., Jones, J., Cwener, A., Guyonneau, J., Papuga, G., De Vitis, M., Fenu, G., Van Rossum, F., Asset, B., Cogoni, D., Foster, G., Julien, M., Piqueray, J., Vít, P., Vydrzel, H., Bonnet, V., Carta, A., Descombes, P., Lazarević, M., Müller, N., Orsenigo, S., Ravera, S., Sild, M., Smyth, S., Wagner, T., Walisch, T., Ballian, D., Bertiller, R., Cambria, V.E., Colas, B., Dixon, L., Draper, D., Froidevaux, V., Gąsiorowska, B., Hardegen, M., Machon, N., Mesnage, C., Pagitz, K., Pánková, H., Pankhurst, T., Preston, J., Prunier, P., Salzmann, C., Mas, S.S., Sartori, K., Stanik, N., Storrer, Y., White, F., Wunderli, A., Socher, S. (2025). Current state of plant conservation translocations across Europe: motivations, challenges and outcomes. Biodiversity and Conservation, 34(3), 769-792.\nA21. Perret, J., Laroche, F., Papuga, G., & Besnard, A. (2024). Avoid non‐probability sampling to select population monitoring sites: Comment on McClure and Rolek (2023). Methods in Ecology and Evolution, 15(8), 1296-1301.\nA20. Decaëns, T., Bartz, M.L.C., Feijoo, A.M., Goulpeau, A., Lapied, E., Marchan, D.F., Maggia, M.E., Papuga, G., James, S.W. (2024). Earthworms (Oligochaeta, Clitellata) of the Mitaraka range, French Guiana: commented checklist with description of one genus and eighteen species new to science. Zoosystema, in press.\nA19. Perret, J., Besnard, A., Charpentier, A., Papuga, G. (2023). Plants stand still but hide: Imperfect and heterogeneous detection is the rule when counting plants. Journal of Ecology, 111: 1483–1496.\nA18. Doyle, C. A. T., Abeli, T., Albrecht, M. A., Bellis, J., Colas, B., Dalrymple, S. E., Ensslin, A., Espejo, J., Erftemeijer, P. L. A., Julien, M., Lewandrowski, W., Liu, H., Moehrenschlager, A., Ooi, M. K. J., Reynolds, D. M., Schatz, B., Sild, M., Wills, T. J., Papuga, G. (2023). Achieving conservation outcomes in plant mitigation translocations: the need for global standards. Plant Ecology, 224: 745–763.\nA17. Perret, J., Charpentier, A., Pradel, R., Papuga, G., Besnard, A. (2022). Spatially balanced sampling methods are always more precise than random ones for estimating the size of aggregated populations. Methods in Ecology and Evolution, 13: 2743–2756.\nA16. Dubos, N., Préau, C., Lenormand, M., Papuga, G., Monsarrat, S., Denelle, P., Louarn, M. L., Heremans, S., May, R., Roche, P., Luque, S. (2022). Assessing the effect of sample bias correction in species distribution models. Ecological Indicators, 145: 109487.\nA15. Masclaux, T., Largier, G., Cambecèdes, J., Fallour-Rubio, D., Hamdi, E., Komac, B., Menand, M., Olicard, L., Rudi-Dencausse, A.-S., Sirvent, L., Illa, E., Argagnon, O., Papuga, G. (2022). Large-scale diachronic surveys of the composition and dynamics of plant communities in Pyrenean snowbeds. Plant Ecology, 223: 1103–1119.\nA14. Latron, M., Allies, A., Argagnon, O., Bosc, N., Faure, K., Fontes, H., Grillas, P., Molina, J., De Wit, R., Papuga, G. (2022). Mediterranean Temporary Lagoon: Proposal for a definition of this endangered habitat to improve its conservation. Journal for Nature Conservation, 68: 126193.\nA13. Turpin, L., Diadema, K., Lalanne, A., Le Berre, M., Papuga, G., Argagnon, O. (2022). Prioritization of natural habitats: A methodological framework applied to the French Mediterranean. Journal for Nature Conservation, 67: 126185.\nA12. Gazaix, A., Grillas, P., Papuga, G., Fontes, H., Sabatier, F., Pons, V., Gauthier, P., Thompson, J. D. (2021). Ecological niche differentiation among six annual Lythrum species in Mediterranean temporary pools. Oecologia, 197: 715–727.\nA11. Menu, M., Papuga, G., Andrieu, F., Debarros, G., Fortuny, X., Alleaume, S., Pitard, E. (2021). Towards a better understanding of grass bed dynamics using remote sensing at high spatial and temporal resolutions. Estuarine, Coastal and Shelf Science, 251: 107229.\nA10. Gauthier, P., Pons, V., Fisogni, A., Murru, V., Berjano, R., Dessena, S., Maccioni, A., Chelo, C., De Manincor, N., Doncieux, A., Papuga, G., Thompson, J. D. (2019). Assessing vulnerability of listed Mediterranean plants based on population monitoring. Journal for Nature Conservation, 52: 125758.\nA9. Fontes, H., Gazaix, A., Papuga, G. (2019). Heterogeneous forest structures favor persistence of the grassland Mediterranean geophyte Gagea lacaitae. Botany Letters, 166: 487–498.\nA8. Papuga, G., Filigheddu, R., Gauthier, P., Farris, E. (2019). Variation in floral morphology in a hybrid complex of Cyclamen on Sardinia. Plant Ecology and Diversity, 12: 51–61.\nA7. Lenormand, M., Papuga, G., Argagnon, O., Soubeyrand, M., De Barros, G., Alleaume, S., Luque, S. (2019). Biogeographical network analysis of plant species distribution in the Mediterranean region. Ecology and Evolution, 9, 237–250. [equal contribution of the first two authors]\nA6. Farris, E., Carta, M., Circosta, S., Falchi, S., Papuga, G., de Lange, P. (2018). The indigenous vascular flora of the forest domain of Anela (Sardinia, Italy). PhytoKeys, 113, 97–143.\nA5. Papuga, G., Gauthier, P., Pons, V., Farris, E., Thompson, J.D. (2018). Ecological niche differentiation in peripheral populations: a comparative analysis of Mediterranean plants at their northern range limits. Ecography, 41, 1650–1664.\nA4. Thompson, J. D., Gauthier, P., Papuga, G., Pons, V., Debussche, M., Farris, E. (2018). The conservation significance of natural hybridisation in Mediterranean plants: from a case study on Cyclamen (Primulaceae) to a general perspective. Plant Biology, 20, 128–138.\nA3. Gauthier, Pons, V., Letourneau, A., Klesczewski, M., Papuga, G., Thompson, J. D. (2017). Combining population monitoring with habitat vulnerability to assess conservation status in populations of rare and endangered plants. Journal for Nature Conservation, 37, 83-95.\nA2. Pironon, S.*, Papuga, G.*, Villellas, J., Angert, A. L., García, M. B., Thompson, J. D. (2017). Geographic variation in genetic and demographic performance: new insights from an old biogeographical paradigm. Biological Reviews, 92, 1877-1909. [*equal contribution]\nA1. Papuga, G., Gauthier, P., Ramos, J., Pons, V., Pironon, S., Farris, E., Thompson, J. D. (2015). Range-wide variation in the ecological niche and floral polymorphism of the western Mediterranean geophyte Narcissus dubius Gouan. International Journal of Plant Sciences, 176, 724–738."
+  },
+  {
+    "objectID": "publications.html#preprints-in-review",
+    "href": "publications.html#preprints-in-review",
+    "title": "Publications",
+    "section": "",
+    "text": "(Add preprints here)"
+  },
+  {
+    "objectID": "publications.html#published",
+    "href": "publications.html#published",
+    "title": "Publications",
+    "section": "",
+    "text": "A25. Mouillac, C., Besnard, A., Papuga, G. (2025). Are wild-harvested plants just ordinary? Traits and harvesting patterns in France. Biological Conservation, in press.\nA24. Thompson, J.D., Fauché M., Papuga G. & Gauthier P. (2025). Plant conservation in a changing Mediterranean world. Plant People and Nature, in press.\nA23. Lenormand, M., Féret, J. B., Papuga, G., Alleaume, S., & Luque, S. (2025). Coupling in situ and remote sensing data to assess α‐and β‐diversity over biogeographic gradients. Ecography, e07479.\nA22. Godefroid, S., Lacquaye, T., Ensslin, A., Dalrymple, S., Abeli, T., Branwood, H., Pardo, I.F., Zippel, E., Gouveia, L., Lobo, C.A., Fernandes, F., Lang, M., Daco, L., Séleck, M., Frankard, P., Fischer, L., Koutsovoulou, K., Finger, A., Valkó, O., Garfi, G., Španiček, B., Bürli, S., Dickenmann, R., Jones, J., Cwener, A., Guyonneau, J., Papuga, G., De Vitis, M., Fenu, G., Van Rossum, F., Asset, B., Cogoni, D., Foster, G., Julien, M., Piqueray, J., Vít, P., Vydrzel, H., Bonnet, V., Carta, A., Descombes, P., Lazarević, M., Müller, N., Orsenigo, S., Ravera, S., Sild, M., Smyth, S., Wagner, T., Walisch, T., Ballian, D., Bertiller, R., Cambria, V.E., Colas, B., Dixon, L., Draper, D., Froidevaux, V., Gąsiorowska, B., Hardegen, M., Machon, N., Mesnage, C., Pagitz, K., Pánková, H., Pankhurst, T., Preston, J., Prunier, P., Salzmann, C., Mas, S.S., Sartori, K., Stanik, N., Storrer, Y., White, F., Wunderli, A., Socher, S. (2025). Current state of plant conservation translocations across Europe: motivations, challenges and outcomes. Biodiversity and Conservation, 34(3), 769-792.\nA21. Perret, J., Laroche, F., Papuga, G., & Besnard, A. (2024). Avoid non‐probability sampling to select population monitoring sites: Comment on McClure and Rolek (2023). Methods in Ecology and Evolution, 15(8), 1296-1301.\nA20. Decaëns, T., Bartz, M.L.C., Feijoo, A.M., Goulpeau, A., Lapied, E., Marchan, D.F., Maggia, M.E., Papuga, G., James, S.W. (2024). Earthworms (Oligochaeta, Clitellata) of the Mitaraka range, French Guiana: commented checklist with description of one genus and eighteen species new to science. Zoosystema, in press.\nA19. Perret, J., Besnard, A., Charpentier, A., Papuga, G. (2023). Plants stand still but hide: Imperfect and heterogeneous detection is the rule when counting plants. Journal of Ecology, 111: 1483–1496.\nA18. Doyle, C. A. T., Abeli, T., Albrecht, M. A., Bellis, J., Colas, B., Dalrymple, S. E., Ensslin, A., Espejo, J., Erftemeijer, P. L. A., Julien, M., Lewandrowski, W., Liu, H., Moehrenschlager, A., Ooi, M. K. J., Reynolds, D. M., Schatz, B., Sild, M., Wills, T. J., Papuga, G. (2023). Achieving conservation outcomes in plant mitigation translocations: the need for global standards. Plant Ecology, 224: 745–763.\nA17. Perret, J., Charpentier, A., Pradel, R., Papuga, G., Besnard, A. (2022). Spatially balanced sampling methods are always more precise than random ones for estimating the size of aggregated populations. Methods in Ecology and Evolution, 13: 2743–2756.\nA16. Dubos, N., Préau, C., Lenormand, M., Papuga, G., Monsarrat, S., Denelle, P., Louarn, M. L., Heremans, S., May, R., Roche, P., Luque, S. (2022). Assessing the effect of sample bias correction in species distribution models. Ecological Indicators, 145: 109487.\nA15. Masclaux, T., Largier, G., Cambecèdes, J., Fallour-Rubio, D., Hamdi, E., Komac, B., Menand, M., Olicard, L., Rudi-Dencausse, A.-S., Sirvent, L., Illa, E., Argagnon, O., Papuga, G. (2022). Large-scale diachronic surveys of the composition and dynamics of plant communities in Pyrenean snowbeds. Plant Ecology, 223: 1103–1119.\nA14. Latron, M., Allies, A., Argagnon, O., Bosc, N., Faure, K., Fontes, H., Grillas, P., Molina, J., De Wit, R., Papuga, G. (2022). Mediterranean Temporary Lagoon: Proposal for a definition of this endangered habitat to improve its conservation. Journal for Nature Conservation, 68: 126193.\nA13. Turpin, L., Diadema, K., Lalanne, A., Le Berre, M., Papuga, G., Argagnon, O. (2022). Prioritization of natural habitats: A methodological framework applied to the French Mediterranean. Journal for Nature Conservation, 67: 126185.\nA12. Gazaix, A., Grillas, P., Papuga, G., Fontes, H., Sabatier, F., Pons, V., Gauthier, P., Thompson, J. D. (2021). Ecological niche differentiation among six annual Lythrum species in Mediterranean temporary pools. Oecologia, 197: 715–727.\nA11. Menu, M., Papuga, G., Andrieu, F., Debarros, G., Fortuny, X., Alleaume, S., Pitard, E. (2021). Towards a better understanding of grass bed dynamics using remote sensing at high spatial and temporal resolutions. Estuarine, Coastal and Shelf Science, 251: 107229.\nA10. Gauthier, P., Pons, V., Fisogni, A., Murru, V., Berjano, R., Dessena, S., Maccioni, A., Chelo, C., De Manincor, N., Doncieux, A., Papuga, G., Thompson, J. D. (2019). Assessing vulnerability of listed Mediterranean plants based on population monitoring. Journal for Nature Conservation, 52: 125758.\nA9. Fontes, H., Gazaix, A., Papuga, G. (2019). Heterogeneous forest structures favor persistence of the grassland Mediterranean geophyte Gagea lacaitae. Botany Letters, 166: 487–498.\nA8. Papuga, G., Filigheddu, R., Gauthier, P., Farris, E. (2019). Variation in floral morphology in a hybrid complex of Cyclamen on Sardinia. Plant Ecology and Diversity, 12: 51–61.\nA7. Lenormand, M., Papuga, G., Argagnon, O., Soubeyrand, M., De Barros, G., Alleaume, S., Luque, S. (2019). Biogeographical network analysis of plant species distribution in the Mediterranean region. Ecology and Evolution, 9, 237–250. [equal contribution of the first two authors]\nA6. Farris, E., Carta, M., Circosta, S., Falchi, S., Papuga, G., de Lange, P. (2018). The indigenous vascular flora of the forest domain of Anela (Sardinia, Italy). PhytoKeys, 113, 97–143.\nA5. Papuga, G., Gauthier, P., Pons, V., Farris, E., Thompson, J.D. (2018). Ecological niche differentiation in peripheral populations: a comparative analysis of Mediterranean plants at their northern range limits. Ecography, 41, 1650–1664.\nA4. Thompson, J. D., Gauthier, P., Papuga, G., Pons, V., Debussche, M., Farris, E. (2018). The conservation significance of natural hybridisation in Mediterranean plants: from a case study on Cyclamen (Primulaceae) to a general perspective. Plant Biology, 20, 128–138.\nA3. Gauthier, Pons, V., Letourneau, A., Klesczewski, M., Papuga, G., Thompson, J. D. (2017). Combining population monitoring with habitat vulnerability to assess conservation status in populations of rare and endangered plants. Journal for Nature Conservation, 37, 83-95.\nA2. Pironon, S.*, Papuga, G.*, Villellas, J., Angert, A. L., García, M. B., Thompson, J. D. (2017). Geographic variation in genetic and demographic performance: new insights from an old biogeographical paradigm. Biological Reviews, 92, 1877-1909. [*equal contribution]\nA1. Papuga, G., Gauthier, P., Ramos, J., Pons, V., Pironon, S., Farris, E., Thompson, J. D. (2015). Range-wide variation in the ecological niche and floral polymorphism of the western Mediterranean geophyte Narcissus dubius Gouan. International Journal of Plant Sciences, 176, 724–738."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
