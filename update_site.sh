@@ -1,5 +1,6 @@
 #!/bin/bash
 # Script to render Quarto site and push to GitHub
+# use ./update_site.sh
 
 quarto render
 git add .
