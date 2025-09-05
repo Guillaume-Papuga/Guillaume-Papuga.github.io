@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-# Contact
-
 Join our research group!
 
 **Email:** guillaume /dot/ papuga (at) univ-montpellier /dot/ fr\

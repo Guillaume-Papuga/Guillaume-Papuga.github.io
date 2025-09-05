@@ -2,8 +2,6 @@
 title: "Analyses"
 ---
 
-# Analyses
-
 This section shares code and analyses used in university or professional trainings.
 
 ### Teaching analyses

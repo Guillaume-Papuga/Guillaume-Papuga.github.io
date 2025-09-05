@@ -2,8 +2,6 @@
 title: "Welcome"
 ---
 
-# Welcome
-
 Hello! I am **Guillaume Papuga**, lecturer at the University of Montpellier.
 
 **Insert your photo here**
