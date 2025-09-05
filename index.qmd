@@ -15,7 +15,6 @@ Plant ecology, evolution and conservation
 [![](https://img.icons8.com/?size=50&id=JwlJGiL15V81&format=png&color=000000)](https://www.researchgate.net/profile/Guillaume-Papuga)
 [![](https://img.icons8.com/?size=50&id=of3VL9FKzJuz&format=png&color=000000)](mailto:guillaume.papuga@umontpellier.fr)
 [![](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/guillaume-papuga-b3735b2a1/)
-</div>
 [![](https://img.icons8.com/?size=50&id=3ovMFy5JDSWq&format=png&color=000000)](https://bsky.app/profile/guillaume-papuga.bsky.social)
 </div>
 :::
@@ -23,7 +22,7 @@ Plant ecology, evolution and conservation
 ::: {.g-col-8}
 # Welcome
 
-Hello! I am **Guillaume Papuga**, lecturer in ecology at the [University of Montpellier](https://www.umontpellier.fr/) and member of the [AMAP laboratory](https://amap.cirad.fr/)  
+Hello! I am **Guillaume Papuga**, lecturer in ecology at the [University of Montpellier](https://www.umontpellier.fr/){target="_blank"} and member of the [AMAP laboratory](https://amap.cirad.fr/){target="_blank"}.  
 
 My research focuses on the **conservation of plants and habitats**, with a strong emphasis on Mediterranean ecosystems. I combine field ecology, biogeography and statistical modeling to better understand plant diversity, distribution limits, and responses to environmental change.  
 
