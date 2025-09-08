@@ -16,5 +16,3 @@ format: html
   mode="light"
   link-target="_blank"
 ></bsky-embed>`{=html}
-
-bsky-embed
