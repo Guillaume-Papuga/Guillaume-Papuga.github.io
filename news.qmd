@@ -9,5 +9,5 @@ format: html
 ```
 
 <bsky-embed
-  username="guillaumepapuga.bsky.social"
+  username="guillaume-papuga.bsky.social"
   limit="5"> </bsky-embed>
