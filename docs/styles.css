@@ -1,10 +1,1 @@
 /* css styles */
-
-/* Remplace l'avatar Bluesky par ta photo locale */
-bsky-embed img[alt="profile picture"] {
-  content: url("images/profil_1.JPG");  /* ton image locale */
-  width: 48px;    /* ajuste la taille */
-  height: 48px;
-  border-radius: 50%;  /* cercle comme sur Bluesky */
-  object-fit: cover;
-}
