@@ -6,6 +6,8 @@ website:
   title: "Guillaume Papuga"
   navbar:
     left:
+      - href: news.qmd
+        text: News
       - href: research.qmd
         text: Research
       - href: people.qmd
