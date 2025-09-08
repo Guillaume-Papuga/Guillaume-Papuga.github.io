@@ -8,9 +8,13 @@ format: html
 <script async src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" type="module"></script>
 ```
 
-<bsky-embed
-  username="guillaume-papuga.bsky.social"
+`<bsky-embed
+  username="guillaume-papuga.bsky.social"`{=html}
+
+`img[alt="profile picture"] { display: none; }
   limit="5"
   mode="light"
   link-target="_blank"
-></bsky-embed>
+></bsky-embed>`{=html}
+
+bsky-embed
