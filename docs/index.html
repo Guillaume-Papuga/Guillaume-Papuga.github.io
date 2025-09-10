@@ -131,8 +131,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#research-wordcloud" id="toc-research-wordcloud" class="nav-link active" data-scroll-target="#research-wordcloud">Research Wordcloud</a></li>
+  <li><a href="#exemple-simple-à-remplacer-par-ton-vrai-tableau-de-mots" id="toc-exemple-simple-à-remplacer-par-ton-vrai-tableau-de-mots" class="nav-link" data-scroll-target="#exemple-simple-à-remplacer-par-ton-vrai-tableau-de-mots">Exemple simple, à remplacer par ton vrai tableau de mots</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
@@ -159,8 +166,18 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="path/to/cv.pdf">Download CV (PDF)</a> <a href="path/to/cv.pdf">Download HDR - fr (PDF)</a></p>
 </section>
 </div>
+<hr>
+<section id="research-wordcloud" class="level2">
+<h2 class="anchored" data-anchor-id="research-wordcloud">Research Wordcloud</h2>
+<p>library(wordcloud2) library (tm)</p>
+</section>
+<section id="exemple-simple-à-remplacer-par-ton-vrai-tableau-de-mots" class="level1">
+<h1>Exemple simple, à remplacer par ton vrai tableau de mots</h1>
+<p>demoFreq &lt;- data.frame( word = c(“ecology”, “biodiversity”, “plants”, “conservation”, “botany”, “genetics”), freq = c(20, 15, 12, 10, 8, 6) )</p>
+<p>wordcloud2(demoFreq, size = 1, color = “random-light”, backgroundColor = “black”)</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
