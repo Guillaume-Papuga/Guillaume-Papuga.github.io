@@ -70,7 +70,7 @@ df <- data.frame(word = names(word_freqs), freq = word_freqs)
 
 # Wordcloud interactif
 wordcloud2(df, 
-           size = 1,        # taille globale
+           size = 0.8,        # taille globale
            minRotation = -pi/6,
            maxRotation = pi/6,
            rotateRatio = 0.4,
