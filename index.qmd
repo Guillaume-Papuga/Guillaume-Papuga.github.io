@@ -42,18 +42,41 @@ If you are interested in my work, feel free to explore my projects and publicati
 
 ---
 
-## Research Wordcloud
-```{r}
-library(wordcloud2)
+```{r wordcloud}
+# Packages
+library (wordcloud2)
+library (tm)
+library (here)
 
-demoFreq <- data.frame(
-  word = c("ecology", "biodiversity", "plants", "conservation", "botany", "genetics"),
-  freq = c(20, 15, 12, 10, 8, 6)
-)
+# Charger les abstracts
+abstracts <- read.csv(here::here("data", "abstracts.csv"), stringsAsFactors = FALSE)
 
-wordcloud2(demoFreq,
-           size = 1,
-           color = "random-light",
-           backgroundColor = "black")
+# Créer un corpus
+corpus <- Corpus(VectorSource(abstracts$abstract))
+
+# Nettoyage du texte
+corpus <- tm_map(corpus, content_transformer(tolower))
+corpus <- tm_map(corpus, removePunctuation)
+corpus <- tm_map(corpus, removeNumbers)
+corpus <- tm_map(corpus, removeWords, stopwords("english"))
+corpus <- tm_map(corpus, stripWhitespace)
+
+# Matrice termes-documents
+tdm <- TermDocumentMatrix(corpus)
+m <- as.matrix(tdm)
+word_freqs <- sort(rowSums(m), decreasing = TRUE)
+df <- data.frame(word = names(word_freqs), freq = word_freqs)
+
+
+# Wordcloud interactif
+wordcloud2(df, 
+           size = 1,        # taille globale
+           minRotation = -pi/6,
+           maxRotation = pi/6,
+           rotateRatio = 0.4,
+           color = rep(c("#2E8B57", "#3CB371", "#20B2AA", "#4682B4"), 
+                       length.out = nrow(demoFreq)),
+           backgroundColor = "transparent")
+
 ```
 
