@@ -42,7 +42,7 @@ If you are interested in my work, feel free to explore my projects and publicati
 
 ---
 
-```{r wordcloud}
+```{r wordcloud, fig.width=8, fig.height=6}
 # Packages
 library (wordcloud2)
 library (tm)
