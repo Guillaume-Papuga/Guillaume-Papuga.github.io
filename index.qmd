@@ -43,12 +43,9 @@ If you are interested in my work, feel free to explore my projects and publicati
 ---
 
 ## Research Wordcloud
-
 ```{r}
 library(wordcloud2)
-library (tm)
 
-# Exemple simple, à remplacer par ton vrai tableau de mots
 demoFreq <- data.frame(
   word = c("ecology", "biodiversity", "plants", "conservation", "botany", "genetics"),
   freq = c(20, 15, 12, 10, 8, 6)
@@ -58,3 +55,5 @@ wordcloud2(demoFreq,
            size = 1,
            color = "random-light",
            backgroundColor = "black")
+```
+

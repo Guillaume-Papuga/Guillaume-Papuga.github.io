@@ -1,3 +1,10 @@
+execute:
+  echo: false
+  warning: false
+  message: false
+
+htmlwidgets: true
+
 project:
   type: website
   output-dir: docs

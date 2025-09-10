@@ -68,6 +68,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<link href="site_libs/wordcloud2-0.0.1/wordcloud.css" rel="stylesheet">
+<script src="site_libs/wordcloud2-0.0.1/wordcloud2-all.js"></script>
+<script src="site_libs/wordcloud2-0.0.1/hover.js"></script>
+<script src="site_libs/wordcloud2-binding-0.2.1/wordcloud2.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -137,7 +143,6 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#research-wordcloud" id="toc-research-wordcloud" class="nav-link active" data-scroll-target="#research-wordcloud">Research Wordcloud</a></li>
-  <li><a href="#exemple-simple-à-remplacer-par-ton-vrai-tableau-de-mots" id="toc-exemple-simple-à-remplacer-par-ton-vrai-tableau-de-mots" class="nav-link" data-scroll-target="#exemple-simple-à-remplacer-par-ton-vrai-tableau-de-mots">Exemple simple, à remplacer par ton vrai tableau de mots</a></li>
   </ul>
 </nav>
     </div>
@@ -169,12 +174,12 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <section id="research-wordcloud" class="level2">
 <h2 class="anchored" data-anchor-id="research-wordcloud">Research Wordcloud</h2>
-<p>library(wordcloud2) library (tm)</p>
-</section>
-<section id="exemple-simple-à-remplacer-par-ton-vrai-tableau-de-mots" class="level1">
-<h1>Exemple simple, à remplacer par ton vrai tableau de mots</h1>
-<p>demoFreq &lt;- data.frame( word = c(“ecology”, “biodiversity”, “plants”, “conservation”, “botany”, “genetics”), freq = c(20, 15, 12, 10, 8, 6) )</p>
-<p>wordcloud2(demoFreq, size = 1, color = “random-light”, backgroundColor = “black”)</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="wordcloud2 html-widget html-fill-item" id="htmlwidget-4ed7c4fd3620c5af18fb" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-4ed7c4fd3620c5af18fb">{"x":{"word":["ecology","biodiversity","plants","conservation","botany","genetics"],"freq":[20,15,12,10,8,6],"fontFamily":"Segoe UI","fontWeight":"bold","color":"random-light","minSize":0,"weightFactor":9,"backgroundColor":"black","gridSize":0,"minRotation":-0.7853981633974483,"maxRotation":0.7853981633974483,"shuffle":true,"rotateRatio":0.4,"shape":"circle","ellipticity":0.65,"figBase64":null,"hover":null},"evals":[],"jsHooks":{"render":[{"code":"function(el,x){\n                        console.log(123);\n                        if(!iii){\n                          window.location.reload();\n                          iii = False;\n\n                        }\n  }","data":null}]}}</script>
+</div>
+</div>
 
 
 </section>
